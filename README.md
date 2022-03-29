@@ -6,3 +6,5 @@
 2. css rest
 3. 环境变量配置
 4. vconsole
+5. 过期缓存
+6. 网络请求（axios）
