@@ -10,12 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.26.1",    
     "vue": "^3.2.25",
     "vue-axios": "^3.4.1",
     "vue-router": "^4.0.14"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.0",
+    "autoprefixer": "^10.4.4",
+    "postcss-px-to-viewport": "^1.1.1",
     "vite": "^2.8.0"
   }
 }
