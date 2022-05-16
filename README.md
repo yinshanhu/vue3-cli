@@ -10,3 +10,4 @@
 6. 网络请求（axios）
 7. autoprefixer
 8. 移动端适配（vw）
+9. 低端机处理，（es6转es5）
